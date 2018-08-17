@@ -3,8 +3,8 @@ Wikipedia crawler that extracts the items in the index and in the see also parte
 
 You will need Python, Pip and  Geckodriver:
 
->> https://www.python.org/
+>https://www.python.org/
 
->> https://pypi.python.org/pypi/pip
+>https://pypi.python.org/pypi/pip
 
->> https://github.com/mozilla/geckodrive
+>https://github.com/mozilla/geckodrive
