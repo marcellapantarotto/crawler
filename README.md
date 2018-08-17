@@ -8,3 +8,7 @@ You will need Python, Pip and  Geckodriver:
 >https://pypi.python.org/pypi/pip
 
 >https://github.com/mozilla/geckodrive
+
+You will also need Selenium:
+
+`pip install selenium` or `pip3 install selenium`
