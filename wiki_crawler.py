@@ -22,7 +22,7 @@ num_seeAlso_items = len(seeAlso_items)
 # Print out all of the items on the current page
 for i in range(num_index_items):
     for j in range(num_seeAlso_items):
-        print(index_items[i].text + "," + seeAlso_items[j].text + "\n"
+        print(index_items[i].text + "," + seeAlso_items[j].text + "\n")
 
 # Print result in .csv
 with open('results_CienciaDosMateriais.csv', 'a') as f:
